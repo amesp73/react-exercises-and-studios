@@ -2,10 +2,13 @@
    color: cadetblue;
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    font-style: italic;
+   text-align: left;
+   font-size: 25px;
 }
 
 .choresHeading {
    color: palevioletred;
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    text-decoration: underline;
+   text-align: left;
 }
