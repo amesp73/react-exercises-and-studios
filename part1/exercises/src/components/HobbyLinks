@@ -1,0 +1,9 @@
+function HobbyLinks() {
+    let hobbyLinks = ["https://www.goodreads.com/", "https://sallysbakingaddiction.com/"];
+    return(
+        <div>
+            <a href = {hobbyLinks[0]}>Books</a>
+            <a href = {hobbyLinks[1]}>Baking</a>
+        </div>
+    );
+}
