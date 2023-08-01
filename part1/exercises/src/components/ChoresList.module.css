@@ -1,7 +1,11 @@
 .choresText {
-   color: black;
+   color: cadetblue;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-style: italic;
 }
 
 .choresHeading {
-   color: black;
+   color: palevioletred;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-decoration: underline;
 }
