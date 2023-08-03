@@ -1,0 +1,33 @@
+{"projects": [
+    {
+        "location": "Katy Trail",
+        "season": "Summer",
+        "photoUrl": "https://cloudfront.traillink.com/photos/katy-trail-state-park_169669_sc.jpg",
+        "alt": "Summer runs in the Katy Trail"
+    },
+    {
+        "location": "Tilles Park",
+        "season": "Winter",
+        "photoUrl": "https://www.wwlp.com/wp-content/uploads/sites/26/2022/11/AP22319781630406.jpg?strip=1&w=640",
+        "alt": "Winter runs in Tilles Park"
+    },
+    {
+        "location": "Castlewood State Park",
+        "season": "Fall",
+        "photoUrl": "https://mostateparks.com/sites/mostateparks/files/flickrcache/72157625878757243/26707013599.jpg",
+        "alt": "Fall runs in Castlewood State Park"
+    },
+    {
+        "location": "Forest Park",
+        "season": "Spring",
+        "photoUrl": "https://www.peachythemagazine.com/wp-content/uploads/2021/09/forest-park-st-louis01.jpg",
+        "alt": "Spring runs in Forest Park"
+    },
+    {
+        "location": "Tower Grove Park",
+        "season": "Summer",
+        "photoUrl": "https://www.stlouis-mo.gov/government/departments/parks/parks/images/115-13417135525139-large.jpg",
+        "alt": "Summer runs in Tower Grove Park"
+    }
+]
+}
